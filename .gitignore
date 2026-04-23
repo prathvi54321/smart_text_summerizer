@@ -1,0 +1,11 @@
+# Ignore the large model weights
+my_trained_model/
+results/
+
+# Ignore the large raw datasets
+news_summary.csv
+manual_training_data.csv
+
+# Ignore Python cache
+__pycache__/
+.streamlit/
